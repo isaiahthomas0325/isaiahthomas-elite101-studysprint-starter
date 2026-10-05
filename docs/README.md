@@ -31,6 +31,8 @@ python -m unittest
 
 <!-- Add yourself here on your Git lesson: - Your Name (role) -->
 
+- Isaiah (building StudySprint)
+
 - (your squad will add themselves here)
 
 ## Where to start
