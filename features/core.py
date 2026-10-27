@@ -34,8 +34,8 @@ def list_cards(cards, show=print):
 
 
 def cards_by_category(cards, category):
+    """Return the list of cards whose category matches the given category."""
     return [c for c in cards if c["category"] == category]
-
 
 def count_by_category(cards):
     counts = {}
