@@ -16,3 +16,7 @@ release goes first. Keep each entry to what a user would notice.
 ```
 
 <!-- Your first real release note goes below this line. -->
+
+## v1.0 - 2026-11-09
+### Added
+- Added a review_missed helper so a quiz round can focus on only the cards you got wrong (#1). It has unit tests.

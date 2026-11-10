@@ -22,16 +22,17 @@ python -m unittest
 |---|---|
 | `main.py` | The menu loop you interact with |
 | `storage.py` | Loads and saves the JSON data file |
-| `features/core.py` | The deck, the quiz loop, and small helpers |
+| `features/core.py` | The deck, the quiz loop, and small helpers, including review_missed |
 | `features/reports.py` | Summary reports (half-built - finish it via a ticket) |
 | `data/studysprint.json` | The card deck and score history |
 | `tests/test_core.py` | Example tests to copy from |
+| `tests/test_review_missed.py` | Tests for the review_missed helper |
 
 ## Team
 
 <!-- Add yourself here on your Git lesson: - Your Name (role) -->
 
-- (your squad will add themselves here)
+- Isaiah (building StudySprint, solo)
 
 ## Where to start
 
